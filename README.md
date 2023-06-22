@@ -4,7 +4,7 @@
 
 - [Introduction](#Introduction)
 - [Data](#Data)
-- [SQL Queries](#SQL Queries)
+- [SQL Queries](# SQL Queries)
 - [Visualization](#visualization)
 - [Credits](#credits)
 
