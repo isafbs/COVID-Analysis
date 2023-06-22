@@ -21,6 +21,8 @@ The source for the data used in this project is [Our World in Data - Coronavirus
 The [SQL Queries](https://github.com/isafbs/COVID-Analysis/blob/main/COVID-Project.sql) used in this project are described in the linked file.
 
 ## Visualization
+The visualization of the data was done using Tableau Public. The information displayed is the Global Numbers, Percent Population Infected per Country, Total Deaths per Continent, and Percent Population Infected (including a forecast)
+<img width="960" alt="image" src="https://github.com/isafbs/COVID-Analysis/assets/82235809/4753c3e3-9a98-4d04-9b31-44d62ee938ab">
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/isabella.bobadilla/viz/CovidDataAnalysis_16873829302600/Dashboard1?publish=yes
 )
