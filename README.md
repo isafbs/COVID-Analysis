@@ -22,7 +22,8 @@ The [SQL Queries](https://github.com/isafbs/COVID-Analysis/blob/main/COVID-Proje
 
 ## Visualization
 The visualization of the data was done using Tableau Public. The information displayed is the Global Numbers, Percent Population Infected per Country, Total Deaths per Continent, and Percent Population Infected (including a forecast)
-<img width="960" alt="image" src="https://github.com/isafbs/COVID-Analysis/assets/82235809/4753c3e3-9a98-4d04-9b31-44d62ee938ab">
+
+![covid-19-tableau](https://github.com/isafbs/COVID-Analysis/assets/82235809/066d348d-f52e-4f54-b6c0-a96b98c4431b)
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/isabella.bobadilla/viz/CovidDataAnalysis_16873829302600/Dashboard1?publish=yes
 )
